@@ -1,0 +1,23 @@
+skelner
+203666516
+Sagi Kelner
+
+I discussed the exercise with: None.
+
+==================
+=  Description:  =
+==================
+
+In this exercise, we practice oop - code with classes.
+
+==========================
+=  Auxiliary functions:  =
+==========================
+
+#  *** CLASS GAME ***  #
+
+1. "restart"
+    This function initialized the game. It create the car objects and add them
+    to the board.
+
+All functions except restart are *default* by the maker of the exercise.
