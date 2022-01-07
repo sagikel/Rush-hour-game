@@ -1,7 +1,5 @@
 #############################################################
-# FILE : ex9.py
-# WRITER : Sagi Kelner , skelner , 203666516
-# EXERCISE : intro2cs ex9 2018-2019
+# WRITER : sagikel
 # DESCRIPTION : Classes.
 #############################################################
 
